@@ -56,3 +56,4 @@ namespace BIMFace.SDK.CSharp.Common.Extensions
         }
     }
 }
+// 347eea

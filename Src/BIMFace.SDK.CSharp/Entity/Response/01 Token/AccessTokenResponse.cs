@@ -48,3 +48,4 @@ namespace BIMFace.SDK.CSharp.Entity
         }
     }
 }
+// 929d0b
